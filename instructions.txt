@@ -1,0 +1,12 @@
+Responsive Web Apps
+
+Bootstrap 5.x
+
+3 Rules
+	1. Must include <meta name="viewport" />
+	2. BS CSS include inside <head> tag
+	3. BS JS  include before closing of <body>
+
+CDN = Content Delivery Network (Internet link https)
+
+Bootstrap is all about css classes
